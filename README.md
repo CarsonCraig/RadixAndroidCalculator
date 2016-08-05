@@ -1,5 +1,7 @@
 #Radix Calculator
 
-###Download Link
+![screenshot](screenshot.jpg)
 
-[Amazon Appstore](https://www.amazon.ca/Carson-Craig-The-Radix-Calculator/dp/B014IUXNNS)
+##Download Link:
+
+[Amazon Appstore for Android](https://www.amazon.ca/Carson-Craig-The-Radix-Calculator/dp/B014IUXNNS)
