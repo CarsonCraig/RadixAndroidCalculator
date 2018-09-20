@@ -1,4 +1,4 @@
-# Radix Calculator
+# Radix Android Calculator
 
 ![screenshot](screenshot.jpg)
 
