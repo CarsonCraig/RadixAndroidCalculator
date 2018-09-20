@@ -1,5 +1,7 @@
 # Radix Android Calculator
 
+An Android calculator that operates in any positional numeral system.
+
 ![screenshot](screenshot.jpg)
 
 ## Download Link:
